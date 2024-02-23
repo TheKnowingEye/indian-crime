@@ -1,2 +1,2 @@
 # indian-crime
-The motivation behind this project is to curate a holistic review of the varied types of crime and their nature committed in India through the years 2000-2010.
+The motivation behind this project is to curate a holistic review of the varied types of crime and their nature committed in India through the years 2000-2010. Data available from 27 states and 7 union territories is visualised and prominent trends, patterns, and gravity of crimes have been analyzed. The data used for the project was acquired from [Kaggle](https://www.kaggle.com/datasets/rajanand/crime-in-india) which is a compilation of the annual crime reports published by NCRB India. The attached document sheds more light into the project.
